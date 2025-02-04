@@ -1,8 +1,4 @@
 # awesome-robotics-conference
-A curated list of awesome conferences and journals on robotics
-
-
-# Awesome-Robotics-Academic-List
 
 ## 介绍
 受到[Awesome-Robotics-Academic-List](https://github.com/teddyluo/Awesome-Robotics-Academic-List)激励，
